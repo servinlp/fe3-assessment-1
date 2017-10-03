@@ -1,3 +1,5 @@
+// Original
+// https://bl.ocks.org/mbostock/3883245
 
 const svg = d3.select( 'svg' ), // basicly querySelector maar dan met eigen methods
 	g = svg.append( 'g' ), // appendChild + document.createElement
